@@ -1,0 +1,16 @@
+project_name: MyFirstCIProject
+version: 1.0.0
+# name: kian
+# verion: 1
+
+# on:
+#   push:
+#     branches: -main
+
+# jobs:
+#   name: foo
+#   runs-on: ubuntu-latest
+
+#   steps:
+#     -name: Echo
+#       run: echo devops
